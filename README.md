@@ -1,4 +1,4 @@
-# Using AWS Secrets Manager with EKS
+### Using AWS Secrets Manager with EKS
 Here are a couple of options on the infrastructure level
  Using AWS Secrets Manager with EKS
 1. Store a Secret in AWS Secrets Manager:
